@@ -7,5 +7,5 @@ A timer is started when the user clicks on the entry box and is stopped when the
 The program will then return the total time taken,the wpm, characters per second and the accuracy of the statement.
 A new phrase can be generated using the new phrase button which will also reset the timer to zero.
 
-Please note for the accuracy calculation the first and last characters of the self.sentence are ommitted as they are just quotation marks and not required to be entered by user.
+Please note for the accuracy calculation,the first and last characters of the self.sentence are ommitted as they are just quotation marks and not required to be entered by user.
 
