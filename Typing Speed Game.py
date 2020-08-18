@@ -112,6 +112,8 @@ class Game():
             self.accuracyLabel.grid(row = 7, column = 0, columnspan = 2, padx = 5, pady = 5)
            
 
-test = Game(root)        
+test = Game(root)
+#note this is just to ensure that the app does not close straight away after running it on python
+k = input("Type q to quit") 
 
 root.mainloop()
